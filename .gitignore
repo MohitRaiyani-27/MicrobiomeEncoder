@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+
+# runtime junk (do NOT upload)
+results/run.pid
+results/*.log
+
+# large local scratch (uncomment if you do NOT want to upload weights)
+# checkpoints/*.pt

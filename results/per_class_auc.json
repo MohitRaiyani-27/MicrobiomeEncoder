@@ -1,0 +1,185 @@
+{
+  "summary": {
+    "macro_auc_reliable": 0.7039942365307523,
+    "n_reliable_classes": 20,
+    "macro_auc_single_condition": 0.6875899662912303,
+    "macro_auc_composite": 0.7969517678880438,
+    "min_pos_for_reliable": 5
+  },
+  "per_class": {
+    "ACVD": {
+      "n_pos": 32,
+      "auc": 0.846245840266223,
+      "reliable": true,
+      "composite": true
+    },
+    "BD": {
+      "n_pos": 3,
+      "auc": 0.9232804232804233,
+      "reliable": false,
+      "composite": false
+    },
+    "CAD": {
+      "n_pos": 13,
+      "auc": 0.7697270471464019,
+      "reliable": true,
+      "composite": false
+    },
+    "CDI": {
+      "n_pos": 6,
+      "auc": 0.770334928229665,
+      "reliable": true,
+      "composite": false
+    },
+    "CRC": {
+      "n_pos": 60,
+      "auc": 0.7495055264688771,
+      "reliable": true,
+      "composite": false
+    },
+    "HF": {
+      "n_pos": 14,
+      "auc": 0.8257558273713362,
+      "reliable": true,
+      "composite": false
+    },
+    "IBD": {
+      "n_pos": 103,
+      "auc": 0.6160285766623924,
+      "reliable": true,
+      "composite": false
+    },
+    "IGT": {
+      "n_pos": 19,
+      "auc": 0.6656094633979085,
+      "reliable": true,
+      "composite": true
+    },
+    "MDRB": {
+      "n_pos": 1,
+      "auc": 0.9050632911392404,
+      "reliable": false,
+      "composite": false
+    },
+    "ME/CFS": {
+      "n_pos": 8,
+      "auc": 0.8789999999999999,
+      "reliable": true,
+      "composite": true
+    },
+    "MS": {
+      "n_pos": 55,
+      "auc": 0.868103177099717,
+      "reliable": true,
+      "composite": false
+    },
+    "PD": {
+      "n_pos": 5,
+      "auc": 0.7331210191082802,
+      "reliable": true,
+      "composite": false
+    },
+    "RA": {
+      "n_pos": 15,
+      "auc": 0.8440129449838187,
+      "reliable": true,
+      "composite": false
+    },
+    "STH": {
+      "n_pos": 11,
+      "auc": 0.7347266881028939,
+      "reliable": true,
+      "composite": false
+    },
+    "T1D": {
+      "n_pos": 9,
+      "auc": 0.6426282051282051,
+      "reliable": true,
+      "composite": false
+    },
+    "T2D": {
+      "n_pos": 170,
+      "auc": 0.30782619743361705,
+      "reliable": true,
+      "composite": false
+    },
+    "TKI_dependent_diarrhoea": {
+      "n_pos": 3,
+      "auc": 0.8391534391534392,
+      "reliable": false,
+      "composite": false
+    },
+    "acute_diarrhoea": {
+      "n_pos": 18,
+      "auc": 0.8744354110207769,
+      "reliable": true,
+      "composite": false
+    },
+    "adenoma": {
+      "n_pos": 26,
+      "auc": 0.6008744138892409,
+      "reliable": true,
+      "composite": false
+    },
+    "arthritis": {
+      "n_pos": 1,
+      "auc": 1.0,
+      "reliable": false,
+      "composite": false
+    },
+    "cirrhosis": {
+      "n_pos": 9,
+      "auc": 0.3422364672364672,
+      "reliable": true,
+      "composite": false
+    },
+    "fatty_liver": {
+      "n_pos": 8,
+      "auc": 0.3488,
+      "reliable": true,
+      "composite": false
+    },
+    "melanoma": {
+      "n_pos": 20,
+      "auc": 0.8367047308319739,
+      "reliable": true,
+      "composite": false
+    },
+    "metabolic_syndrome": {
+      "n_pos": 2,
+      "auc": 0.9437400950871632,
+      "reliable": false,
+      "composite": true
+    },
+    "mucositis": {
+      "n_pos": 3,
+      "auc": 0.964021164021164,
+      "reliable": false,
+      "composite": false
+    },
+    "periodontitis": {
+      "n_pos": 2,
+      "auc": 1.0,
+      "reliable": false,
+      "composite": false
+    },
+    "premature_born": {
+      "n_pos": 2,
+      "auc": 0.9984152139461173,
+      "reliable": false,
+      "composite": false
+    },
+    "psoriasis": {
+      "n_pos": 3,
+      "auc": 0.9962962962962963,
+      "reliable": false,
+      "composite": false
+    },
+    "schizophrenia": {
+      "n_pos": 12,
+      "auc": 0.8242082662372519,
+      "reliable": true,
+      "composite": false
+    }
+  }
+}

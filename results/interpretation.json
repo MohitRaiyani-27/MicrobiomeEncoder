@@ -1,0 +1,457 @@
+{
+  "ACVD": {
+    "n_correct": 20,
+    "top_features": [
+      {
+        "feature": "species:Tyzzerella nexilis",
+        "attribution": 0.5680819153785706
+      },
+      {
+        "feature": "species:Bacteroides sp. OM05-12",
+        "attribution": 0.5412682294845581
+      },
+      {
+        "feature": "species:Bacteroides intestinalis",
+        "attribution": 0.48527422547340393
+      },
+      {
+        "feature": "species:Hungatella hathewayi",
+        "attribution": 0.378624826669693
+      },
+      {
+        "feature": "species:Lawsonibacter asaccharolyticus",
+        "attribution": 0.32607534527778625
+      },
+      {
+        "feature": "species:Fusobacterium varium",
+        "attribution": 0.29654401540756226
+      },
+      {
+        "feature": "species:Klebsiella pneumoniae",
+        "attribution": 0.2718353867530823
+      },
+      {
+        "feature": "species:Scardovia inopinata",
+        "attribution": 0.25885820388793945
+      },
+      {
+        "feature": "species:Klebsiella quasipneumoniae",
+        "attribution": 0.24628064036369324
+      },
+      {
+        "feature": "species:Streptococcus infantis",
+        "attribution": 0.22235389053821564
+      },
+      {
+        "feature": "species:Phocaeicola plebeius",
+        "attribution": 0.214929461479187
+      },
+      {
+        "feature": "species:Streptococcus thermophilus",
+        "attribution": 0.18871769309043884
+      },
+      {
+        "feature": "species:Escherichia coli",
+        "attribution": 0.18645349144935608
+      },
+      {
+        "feature": "species:Erysipelatoclostridium ramosum",
+        "attribution": 0.17979559302330017
+      },
+      {
+        "feature": "species:Blautia producta",
+        "attribution": 0.174043208360672
+      }
+    ]
+  },
+  "CRC": {
+    "n_correct": 31,
+    "top_features": [
+      {
+        "feature": "species:Prevotella nigrescens",
+        "attribution": 0.6066270470619202
+      },
+      {
+        "feature": "species:Mogibacterium diversum",
+        "attribution": 0.5665044188499451
+      },
+      {
+        "feature": "species:Gemella morbillorum",
+        "attribution": 0.515718400478363
+      },
+      {
+        "feature": "species:Parvimonas micra",
+        "attribution": 0.5025830268859863
+      },
+      {
+        "feature": "species:[Clostridium] hylemonae",
+        "attribution": 0.2082109898328781
+      },
+      {
+        "feature": "species:Fusobacterium naviforme",
+        "attribution": 0.19254614412784576
+      },
+      {
+        "feature": "species:Porphyromonas asaccharolytica",
+        "attribution": 0.15847057104110718
+      },
+      {
+        "feature": "species:Solobacterium moorei",
+        "attribution": 0.1254051774740219
+      },
+      {
+        "feature": "species:Porphyromonas uenonis",
+        "attribution": 0.10846913605928421
+      },
+      {
+        "feature": "species:Prevotella intermedia",
+        "attribution": 0.10069764405488968
+      },
+      {
+        "feature": "species:Streptococcus gallolyticus",
+        "attribution": 0.09510345011949539
+      },
+      {
+        "feature": "species:Blautia hydrogenotrophica",
+        "attribution": 0.09437834471464157
+      },
+      {
+        "feature": "species:Roseburia sp. CAG:471",
+        "attribution": 0.07268428057432175
+      },
+      {
+        "feature": "species:Gemmiger sp. An120",
+        "attribution": 0.06934080272912979
+      },
+      {
+        "feature": "species:Erysipelatoclostridium ramosum",
+        "attribution": 0.05766696482896805
+      }
+    ]
+  },
+  "IBD": {
+    "n_correct": 9,
+    "top_features": [
+      {
+        "feature": "species:Veillonella seminalis",
+        "attribution": 0.7672882080078125
+      },
+      {
+        "feature": "species:Proteobacteria bacterium CAG:139",
+        "attribution": 0.553026020526886
+      },
+      {
+        "feature": "species:Lawsonibacter asaccharolyticus",
+        "attribution": 0.5043728351593018
+      },
+      {
+        "feature": "species:Lachnoclostridium sp. An181",
+        "attribution": 0.475588321685791
+      },
+      {
+        "feature": "species:Gemmiger formicilis",
+        "attribution": 0.4398854672908783
+      },
+      {
+        "feature": "species:Turicimonas muris",
+        "attribution": 0.3489493131637573
+      },
+      {
+        "feature": "species:Ruthenibacterium lactatiformans",
+        "attribution": 0.3135665953159332
+      },
+      {
+        "feature": "species:Dielma fastidiosa",
+        "attribution": 0.25017526745796204
+      },
+      {
+        "feature": "species:Proteus hauseri",
+        "attribution": 0.22886095941066742
+      },
+      {
+        "feature": "species:Bifidobacterium mongoliense",
+        "attribution": 0.2275017946958542
+      },
+      {
+        "feature": "species:Veillonella sp. CAG:933",
+        "attribution": 0.22480344772338867
+      },
+      {
+        "feature": "species:Blautia hydrogenotrophica",
+        "attribution": 0.21181252598762512
+      },
+      {
+        "feature": "species:Lactobacillus helsingborgensis",
+        "attribution": 0.17949052155017853
+      },
+      {
+        "feature": "species:[Eubacterium] siraeum",
+        "attribution": 0.16721825301647186
+      },
+      {
+        "feature": "species:Blautia producta",
+        "attribution": 0.16396218538284302
+      }
+    ]
+  },
+  "MS": {
+    "n_correct": 16,
+    "top_features": [
+      {
+        "feature": "species:Propionibacterium freudenreichii",
+        "attribution": 0.4618033468723297
+      },
+      {
+        "feature": "species:Dialister invisus",
+        "attribution": 0.26286840438842773
+      },
+      {
+        "feature": "species:Mitsuokella jalaludinii",
+        "attribution": 0.1988007128238678
+      },
+      {
+        "feature": "species:Proteobacteria bacterium CAG:139",
+        "attribution": 0.19874805212020874
+      },
+      {
+        "feature": "species:Streptococcus thermophilus",
+        "attribution": 0.18989914655685425
+      },
+      {
+        "feature": "species:Mitsuokella multacida",
+        "attribution": 0.15287502110004425
+      },
+      {
+        "feature": "species:Coprococcus comes",
+        "attribution": 0.13758975267410278
+      },
+      {
+        "feature": "species:Bilophila wadsworthia",
+        "attribution": 0.12785258889198303
+      },
+      {
+        "feature": "species:Roseburia intestinalis",
+        "attribution": 0.10036498308181763
+      },
+      {
+        "feature": "species:Catenibacterium mitsuokai",
+        "attribution": 0.09812838584184647
+      },
+      {
+        "feature": "species:Enterocloster clostridioformis",
+        "attribution": 0.09479422122240067
+      },
+      {
+        "feature": "species:Alistipes indistinctus",
+        "attribution": 0.0840122327208519
+      },
+      {
+        "feature": "species:Hungatella hathewayi",
+        "attribution": 0.08222222328186035
+      },
+      {
+        "feature": "species:Lactobacillus helsingborgensis",
+        "attribution": 0.07982379198074341
+      },
+      {
+        "feature": "species:Bacteroides intestinalis",
+        "attribution": 0.07085633277893066
+      }
+    ]
+  },
+  "RA": {
+    "n_correct": 10,
+    "top_features": [
+      {
+        "feature": "species:Phocaeicola plebeius",
+        "attribution": 1.4931566715240479
+      },
+      {
+        "feature": "species:Bacteroides stercoris",
+        "attribution": 0.6911450028419495
+      },
+      {
+        "feature": "species:Prevotella melaninogenica",
+        "attribution": 0.45713186264038086
+      },
+      {
+        "feature": "species:Bifidobacterium adolescentis",
+        "attribution": 0.38537877798080444
+      },
+      {
+        "feature": "species:Turicimonas muris",
+        "attribution": 0.32092270255088806
+      },
+      {
+        "feature": "species:Prevotella copri",
+        "attribution": 0.23059925436973572
+      },
+      {
+        "feature": "species:Eggerthella lenta",
+        "attribution": 0.20875628292560577
+      },
+      {
+        "feature": "species:Neisseria flavescens",
+        "attribution": 0.20020551979541779
+      },
+      {
+        "feature": "species:Gordonibacter pamelaeae",
+        "attribution": 0.1942000687122345
+      },
+      {
+        "feature": "species:Streptococcus pasteurianus",
+        "attribution": 0.16956397891044617
+      },
+      {
+        "feature": "species:Phocaeicola coprocola",
+        "attribution": 0.16237124800682068
+      },
+      {
+        "feature": "species:Megamonas funiformis",
+        "attribution": 0.15895017981529236
+      },
+      {
+        "feature": "species:Enterocloster clostridioformis",
+        "attribution": 0.15464052557945251
+      },
+      {
+        "feature": "species:Bifidobacterium pseudocatenulatum",
+        "attribution": 0.14106504619121552
+      },
+      {
+        "feature": "species:Tyzzerella nexilis",
+        "attribution": 0.1241055279970169
+      }
+    ]
+  },
+  "T2D": {
+    "n_correct": 6,
+    "top_features": [
+      {
+        "feature": "species:Bacteroides sp. CAG:633",
+        "attribution": 0.739429771900177
+      },
+      {
+        "feature": "species:Clostridium sp. 7_2_43FAA",
+        "attribution": 0.5963211059570312
+      },
+      {
+        "feature": "species:Dielma fastidiosa",
+        "attribution": 0.22336409986019135
+      },
+      {
+        "feature": "species:Enterocloster clostridioformis",
+        "attribution": 0.20417003333568573
+      },
+      {
+        "feature": "species:Clostridiales bacterium 1_7_47FAA",
+        "attribution": 0.20294524729251862
+      },
+      {
+        "feature": "species:Anaeroglobus geminatus",
+        "attribution": 0.1984444260597229
+      },
+      {
+        "feature": "species:Enterocloster bolteae",
+        "attribution": 0.19664303958415985
+      },
+      {
+        "feature": "species:Harryflintia acetispora",
+        "attribution": 0.163482204079628
+      },
+      {
+        "feature": "species:Pyramidobacter sp. C12-8",
+        "attribution": 0.16158360242843628
+      },
+      {
+        "feature": "species:Enorma massiliensis",
+        "attribution": 0.1383417397737503
+      },
+      {
+        "feature": "species:Turicimonas muris",
+        "attribution": 0.12778985500335693
+      },
+      {
+        "feature": "species:Prevotella sp. CAG:1185",
+        "attribution": 0.12732407450675964
+      },
+      {
+        "feature": "species:Eubacterium ventriosum",
+        "attribution": 0.11795467138290405
+      },
+      {
+        "feature": "species:Bacteroides nordii",
+        "attribution": 0.11341488361358643
+      },
+      {
+        "feature": "species:Parabacteroides johnsonii",
+        "attribution": 0.11278151720762253
+      }
+    ]
+  },
+  "melanoma": {
+    "n_correct": 10,
+    "top_features": [
+      {
+        "feature": "species:Actinomyces naeslundii",
+        "attribution": 2.108628511428833
+      },
+      {
+        "feature": "species:Actinomyces oris",
+        "attribution": 1.5012115240097046
+      },
+      {
+        "feature": "species:Adlercreutzia equolifaciens_1",
+        "attribution": 1.0377213954925537
+      },
+      {
+        "feature": "species:Flavonifractor plautii",
+        "attribution": 0.9688236117362976
+      },
+      {
+        "feature": "species:Lacticaseibacillus rhamnosus",
+        "attribution": 0.494971364736557
+      },
+      {
+        "feature": "species:Gordonibacter pamelaeae",
+        "attribution": 0.49148106575012207
+      },
+      {
+        "feature": "species:Propionibacterium acidifaciens",
+        "attribution": 0.4112602770328522
+      },
+      {
+        "feature": "species:Eggerthella lenta",
+        "attribution": 0.2807251811027527
+      },
+      {
+        "feature": "species:Blautia hydrogenotrophica",
+        "attribution": 0.20058245956897736
+      },
+      {
+        "feature": "species:Adlercreutzia caecimuris",
+        "attribution": 0.19965490698814392
+      },
+      {
+        "feature": "species:Leuconostoc kimchii",
+        "attribution": 0.1954479068517685
+      },
+      {
+        "feature": "species:Actinomyces massiliensis",
+        "attribution": 0.1772458553314209
+      },
+      {
+        "feature": "species:Actinomyces sp. oral taxon 170",
+        "attribution": 0.12534542381763458
+      },
+      {
+        "feature": "species:Collinsella aerofaciens",
+        "attribution": 0.1191883534193039
+      },
+      {
+        "feature": "species:Alistipes indistinctus",
+        "attribution": 0.11257326602935791
+      }
+    ]
+  }
+}

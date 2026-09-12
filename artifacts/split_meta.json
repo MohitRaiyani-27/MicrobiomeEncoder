@@ -1,0 +1,52 @@
+{
+  "n_train_studies": 27,
+  "study2id": {
+    "BrooksB_2017": 0,
+    "DavidLA_2015": 1,
+    "FengQ_2015": 2,
+    "GhensiP_2019": 3,
+    "GuptaA_2019": 4,
+    "HMP_2019_t2d": 5,
+    "HallAB_2017": 6,
+    "HanniganGD_2017": 7,
+    "IaniroG_2022": 8,
+    "IjazUZ_2017": 9,
+    "KarlssonFH_2013": 10,
+    "KosticAD_2015": 11,
+    "LiJ_2014": 12,
+    "LoombaR_2017": 13,
+    "MetaCardis_2020_a": 14,
+    "NielsenHB_2014": 15,
+    "RubelMA_2020": 16,
+    "SankaranarayananK_2015": 17,
+    "ThomasAM_2018a": 18,
+    "ThomasAM_2018b": 19,
+    "ThomasAM_2019_c": 20,
+    "VilaAV_2018": 21,
+    "VogtmannE_2016": 22,
+    "YachidaS_2019": 23,
+    "YuJ_2015": 24,
+    "ZellerG_2014": 25,
+    "ZhuF_2020": 26
+  },
+  "holdout_test_study": {
+    "CDI": "VincentC_2016",
+    "CRC": "WirbelJ_2018",
+    "IBD": "HMP_2019_ibdmdb",
+    "IGT": "HMP_2019_t2d",
+    "STH": "RosaBA_2018",
+    "T1D": "Heitz-BuschartA_2016",
+    "T2D": "QinJ_2012",
+    "acute_diarrhoea": "KieserS_2018",
+    "adenoma": "HanniganGD_2017",
+    "cirrhosis": "QinN_2014",
+    "fatty_liver": "FengQ_2015",
+    "premature_born": "OlmMR_2017",
+    "schizophrenia": "Castro-NallarE_2015"
+  },
+  "counts": {
+    "train": 2872,
+    "test": 633,
+    "val": 541
+  }
+}
